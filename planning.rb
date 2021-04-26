@@ -24,9 +24,9 @@
 
 # Task 1: EXtract the Nouns for Classes
 # Player class
-  # identify player name, score, lives
+  # identify player name, score, lives x
 # Game class
-  # Has game ended?
+  # Has game ended? x
   # Is the question right or wrong?
   # keep track of of lives, score, turn
   # present a question to be validated
